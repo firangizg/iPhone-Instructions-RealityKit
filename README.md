@@ -1,5 +1,5 @@
 # iPhone-Instructions-RealityKit
-This AR app is my submission to Neural Hacks Hackathon 2020. The app is made to provide instructions on iPhones for seniors to eliminate the genderation gap in technology usage. It is one of the lesser known diversity issues that can be addressed with awareness. Even though the app only provides limited instructions on limited device types, it can be expanded upon.
+This AR app is my submission to Neural Hacks Hackathon 2020. The app is made to provide instructions on iPhones for seniors to eliminate the generation gap in technology usage. It is one of the lesser known diversity issues that can be addressed with awareness. Even though the app only provides limited instructions on limited device types, it can be expanded upon.
 
 Not all the code in these files are needed, however, recommended. Latest versions of XCode and Reality Composer is needed. 
 
